@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "479273191461",
+    "firebase_url": "https://garageapp-f4383.firebaseio.com",
+    "project_id": "garageapp-f4383",
+    "storage_bucket": "garageapp-f4383.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479273191461:android:aebc26bb5fbae8b2c5d7cc",
+        "android_client_info": {
+          "package_name": "com.github.martinfrank.garageapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "479273191461-nsdmd9jevocighb9votqbs37t39gvv9i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhSSR66R9zd771Gcjd_cu1bTh5VJ81mok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "479273191461-nsdmd9jevocighb9votqbs37t39gvv9i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
