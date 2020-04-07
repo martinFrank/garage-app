@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">Garage App</string>
     <string name="msg_token_fmt">FCM Token: %s</string>
+
+    <string name="textview_status_gate">Tor Status</string>
+    <string name="textview_push_gate">Tor auf/zu</string>
+    <string name="textview_status_light">Licht Status</string>
+    <string name="textview_push_light">Licht an/aus</string>
 </resources>
